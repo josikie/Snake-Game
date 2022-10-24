@@ -6,9 +6,9 @@ This is a starter repo for the Capstone project in the [Udacity C++ Nanodegree P
 
 ## Fitur that I added to Capstone Snake Game
 Added new class called food as obstacles for food and poison. So the are two foods for snake,
-one is yellow and one is red, the yellow is poison, the red is poison. Terminal will print message whether the 
+one is yellow and one is red, the yellow is healthy food, the red is poison. Terminal will print message whether the 
 snake eat poison or food with what are decreased/increased. Snake will die if eat poisons more than foods.
-The scores, fps, number of poisons that ate by snake, number of foods ate by snake are shown on window title.
+The scores, fps, number of poisons, number of foods ate by snake are shown on window title.
 
 ## Files and structure of class Food (Class that I added to this project)
 I made two files for class Food, the base class (food.h) and food.cpp.
